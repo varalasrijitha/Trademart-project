@@ -25,6 +25,7 @@ public class LoginPage {
 	   WebElement hello;
 	   @FindBy(xpath="//a[text()='Log out']")
 	   WebElement logout;*/
+	 
        public void Login() {
 	   login.click();
        }
@@ -38,6 +39,12 @@ public class LoginPage {
 		  Clicklogin.click();
 		  Thread.sleep(2000);
 	   }
+		  
+	   
+	    	
+	    
+	    
+	   }
 	/*   public void Hello() {
 			  hello.click();
 			  driver.findElement(By.xpath("//ul[@class='dropdown-menu']/li[5]")).click();
@@ -46,4 +53,4 @@ public class LoginPage {
 			  logout.click();
 		  }*/
 		  
-}
+
