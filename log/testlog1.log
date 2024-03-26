@@ -46,3 +46,37 @@
 2024-03-20 15:00:33,559 [main] INFO TestCases.DataDrivenTest - screenshot is taken
 2024-03-20 15:03:32,658 [main] INFO TestCases.DataDrivenTest - screenshot is taken
 2024-03-20 15:48:18,806 [main] INFO TestCases.DataDrivenTest - screenshot is taken
+2024-03-21 15:22:20,123 [main] INFO TestCases.LoginTest - screenshot is taken
+2024-03-21 15:32:04,176 [main] INFO TestCases.LoginTest - screenshot is taken
+2024-03-26 12:16:33,602 [main] INFO TestCases.LoginTestSearch - login is clicked
+2024-03-26 12:16:35,720 [main] INFO TestCases.LoginTestSearch - email is entered
+2024-03-26 12:16:37,813 [main] INFO TestCases.LoginTestSearch - password is entered
+2024-03-26 12:16:41,908 [main] INFO TestCases.LoginTestSearch - login is clicked and entered into application 
+2024-03-26 12:16:43,975 [main] INFO TestCases.LoginTestSearch - Seller product  is selected
+2024-03-26 12:16:46,063 [main] INFO TestCases.LoginTestSearch - search generator is searched
+2024-03-26 12:16:51,695 [main] INFO TestCases.LoginTestSearch - search button is clicked
+2024-03-26 12:16:53,757 [main] INFO TestCases.LoginTestSearch - whishlist is selected
+2024-03-26 12:16:57,180 [main] INFO TestCases.LoginTestSearch - slider is clicked
+2024-03-26 12:17:00,252 [main] INFO TestCases.LoginTestSearch - category is selected
+2024-03-26 12:17:02,292 [main] INFO TestCases.LoginTestSearch - sub category is selected
+2024-03-26 12:17:04,349 [main] INFO TestCases.LoginTestSearch - country is selected
+2024-03-26 12:17:06,411 [main] INFO TestCases.LoginTestSearch - state is selected
+2024-03-26 12:17:08,476 [main] INFO TestCases.LoginTestSearch - city is selected
+2024-03-26 12:17:12,541 [main] INFO TestCases.LoginTestSearch - search seller is selected
+2024-03-26 12:17:14,673 [main] INFO TestCases.LoginTestSearch - search kuldipsyass is searched
+2024-03-26 12:17:19,485 [main] INFO TestCases.LoginTestSearch -  search button is clicked
+2024-03-26 12:17:21,557 [main] INFO TestCases.LoginTestSearch - whishlist1 is clicked
+2024-03-26 12:17:23,630 [main] INFO TestCases.LoginTestSearch - sendmessage is clicked
+2024-03-26 12:17:25,779 [main] INFO TestCases.LoginTestSearch - description is entered
+2024-03-26 12:17:27,873 [main] INFO TestCases.LoginTestSearch - send is clicked
+2024-03-26 12:17:30,972 [main] INFO TestCases.LoginTestSearch - Buying Requirements is selected
+2024-03-26 12:17:35,651 [main] INFO TestCases.LoginTestSearch - button is clicked
+2024-03-26 12:17:37,726 [main] INFO TestCases.LoginTestSearch - quote is clicked
+2024-03-26 12:17:40,032 [main] INFO TestCases.LoginTestSearch - mindate is clicked
+2024-03-26 12:17:44,116 [main] INFO TestCases.LoginTestSearch - apply is clicked
+2024-03-26 12:17:48,181 [main] INFO TestCases.LoginTestSearch - category is clicked
+2024-03-26 12:17:50,246 [main] INFO TestCases.LoginTestSearch - sub category is clicked
+2024-03-26 12:17:53,312 [main] INFO TestCases.LoginTestSearch - slider2 is clicked
+2024-03-26 12:17:57,376 [main] INFO TestCases.LoginTestSearch - country is selected
+2024-03-26 12:17:59,429 [main] INFO TestCases.LoginTestSearch - state is selected
+2024-03-26 12:18:01,488 [main] INFO TestCases.LoginTestSearch - city is selected

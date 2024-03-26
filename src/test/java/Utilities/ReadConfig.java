@@ -22,15 +22,22 @@ public class ReadConfig {
 		String URL=pro.getProperty("baseURL");
 		return URL;
 	}
-	/*public String getEmail() {
+	public String getEmail() {
 		String email=pro.getProperty("email");
 		return email;
 	}
 	public String getPassword() {
 		String password=pro.getProperty("password");
 		return password;
-	}*/
-		
+	}
+	public String search() {
+		String search=pro.getProperty("searched");
+		return search;
+	}
+	public String Search() {
+		String search1=pro.getProperty("searched1");
+		return search1;
+	}
 			
 }
 

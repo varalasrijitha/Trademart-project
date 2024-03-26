@@ -25,8 +25,10 @@ public class Baseclass {
 	ReadConfig rc=new ReadConfig();
 		
 		public String url=rc.getApplication();
-		//public String email=rc.getEmail();
-		//public String password=rc.getPassword();
+		public String email=rc.getEmail();
+		public String password=rc.getPassword();
+		public String search=rc.search();
+		public String search1=rc.Search();
 		
 	@BeforeClass
     public void openapplication() {
